@@ -131,4 +131,3 @@ I aim to leverage my technical background to manage software projects effectivel
 
 * Facebook: https://www.facebook.com/vinh.tran.600192/
 * Instagram: https://www.instagram.com/vinh290304/
-* GitHub: https://github.com/yourusername
